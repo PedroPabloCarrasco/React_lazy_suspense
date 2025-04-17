@@ -1,4 +1,4 @@
-# Random Image Generator
+# React Lazy Suspense
 
 ## Descripción
 
@@ -14,7 +14,7 @@ Esta aplicación muestra una imagen aleatoria cada vez que el usuario presiona e
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/usuario/repo.git
+   git clone https://github.com/usuario/React_lazy_suspense.git
 
-   ![image](https://github.com/user-attachments/assets/fe0be9f0-e56c-4805-9f66-9c36a97a9226)
 
+![Captura desde 2025-04-17 12-36-57](https://github.com/user-attachments/assets/248de1e5-f78d-402f-935d-2e8c96bcebf6)
